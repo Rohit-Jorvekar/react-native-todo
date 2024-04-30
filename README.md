@@ -27,18 +27,16 @@
 
 
 ## Features📓
-- User Authentication – Utilizes Firebase phone authentication for secure user login.
-- Product Management – Allows adding, editing, and deleting edible oil products with details like name, price, quantity, etc.
-- Order Processing – Enables users to place orders for edible oils and track their order status.
-- Payment Integration – Integrates with payment gateways to facilitate secure online payments.
+- Add new todos with title and description.
+- Mark todos as complete or incomplete.
+- Delete todos from the list.
 
 ## Functionality📝
-- Manage product inventory and sales – Users can add, update, and track their edible oil products and sales within the app.
-- Order tracking – Allows users to monitor the status of their orders, including processing, shipping, and delivery.
-- Customer management – Provides tools for managing customer information, preferences, and purchase history.
-- Sales analytics – Includes built-in analytics for monitoring sales performance, trends, and profitability.
-- Integration with payment gateways – Enables secure online payments for orders through integrated payment gateways.
-
+- Display To-Do Items: View a list of to-do items with titles and completion status.
+- Add To-Do Items: Use the input field to add new to-do items to the list.
+- Mark as Completed: Toggle the completion status of to-do items.
+- Delete To-Do Items: Remove unwanted to-do items from the list.
+  
 ## Feedback
 We value your feedback! Please send us your suggestions and comments at rohitj.kor@gmail.com.
 
